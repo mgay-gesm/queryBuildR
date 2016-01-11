@@ -14,7 +14,7 @@ dependencies:
     version: 2.2.0
     src: "htmlwidgets/lib/jQuery-QueryBuilder"
     script: query-builder.standalone.min.js
-    stylesheet: query-builder.default.min.css
+    stylesheet: query-builder.dark.css
   - name: sqlparser
     version: 1.0.0
     src: "htmlwidgets/lib/sql-parser"
